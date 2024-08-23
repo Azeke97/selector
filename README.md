@@ -1,4 +1,4 @@
-# selector
+# vue-wardrobe
 
 ## Project setup
 ```
